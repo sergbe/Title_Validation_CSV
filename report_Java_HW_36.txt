@@ -1,0 +1,150 @@
+
+Test Case ID: 		TC-001.01
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.02
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.03
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		alegro.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.04
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.05
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.06
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		Alegro.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.07
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.08
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.coma
+Title Actual: 		www.alegro.com
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.09
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		alegro.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.10
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.11
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.12
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		alegro.net - This website is for sale! - alegro Resources and Information.
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.13
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.14
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.15
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.neta
+Title Actual: 		alegro.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.16
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.17
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.18
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net2
+Title Actual: 		alegro.net - This website is for sale! - alegro Resources and Information.
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.19
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.20
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		Alegro.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.21
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.22
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.23
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		Alegro.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.24
+URL: 			http://www.learn2test.net
+Title Expected: 	blah
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.25
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
